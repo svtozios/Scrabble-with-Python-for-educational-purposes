@@ -1,5 +1,5 @@
 # Scrabble-with-Python-for-educational-purposes
-A simple impementation of the well-known fun word game with greek words in Python.
+A simple implementation of the well-known fun word game with greek words in Python.
 
 
 File with greek words with maximum 7 letters : greek7.txt
